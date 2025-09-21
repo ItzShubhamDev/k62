@@ -3,16 +3,16 @@
 ## Project Overview
 
 **Started:** August 14, 2025  
-**Finished:** Sep 20, 2025  
-**Total Logs:** 5  
-**Time Invested:** 9 hours 30 minutes  
+**Finished:** Sep 21, 2025  
+**Total Logs:** 6  
+**Time Invested:** 12 hours 30 minutes  
 **GitHub:** [https://github.com/ItzShubhamDev/sk63](https://github.com/ItzShubhamDev/sk63)  
 
 ### Description
 
 A 60% split keyboard consisting of 62 keys, 1 rotary encoder, 1 OLED screen powered by Raspberry Pi Picos.
 
-![Project Cover](https://hc-cdn.hel1.your-objectstorage.com/s/v3/4acfa11a9ba745a5e07707ab30ab820afb9bd12a_tmprqfgf851.png)
+![Project Cover](http://groundplane.hackclub.com/default_cover.png)
 
 ## Table of Contents
 
@@ -21,6 +21,7 @@ A 60% split keyboard consisting of 62 keys, 1 rotary encoder, 1 OLED screen powe
 3. [Completed the PCB for the Left Split.   (2025-09-16)](#completed-the-pcb-for-the-left-split.---2025-09-16)
 4. [Completed the right split. (2025-09-16)](#completed-the-right-split.-2025-09-16)
 5. [Completed the case. (2025-09-20)](#completed-the-case.-2025-09-20)
+6. [Change from split to single due to high PCB cost. (2025-09-21)](#change-from-split-to-single-due-to-high-pcb-cost.-2025-09-21)
 
 ## Development Logs
 
@@ -126,6 +127,28 @@ None.
 
 ---
 
+### Change from split to single due to high PCB cost. - September 21, 2025 <a id="change-from-split-to-single-due-to-high-pcb-cost.-2025-09-21"></a>
+
+**Time Spent:** 3h 0m  
+
+#### What I Did
+
+Redid the PCB and the case for a 60% keyboard instead of originial Split Keyboard.
+
+#### Issues Faced
+
+None.
+
+#### Next Steps
+
+None.
+
+#### Media
+
+![Log Media](https://hc-cdn.hel1.your-objectstorage.com/s/v3/48b7bacefd4d0d1098b2994efd9fb52b3607e351_tmp54lky3ro.png)
+
+---
 
 
-*Exported from Grounded Tracker on 2025-09-20 14:44:07*
+
+*Exported from Grounded Tracker on 2025-09-21 03:42:46*
